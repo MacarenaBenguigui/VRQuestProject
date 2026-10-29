@@ -1,0 +1,55 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build outputs
+*.apk
+*.aab
+
+# IDE and cache folders
+.vs/
+.idea/
+.vscode/
+
+# Android build cache (Gradle/CMake) and crash/memory dumps
+.utmp/
+.gradle/
+*.so
+*.o
+[Rr]ecordings/
+[Mm]emoryCaptures/
+crashlytics-build.properties
+sysinfo.txt
+
+# Signing keys and local secrets
+*.keystore
+*.jks
+*.p12
+*.pem
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
